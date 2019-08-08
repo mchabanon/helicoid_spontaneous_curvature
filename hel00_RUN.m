@@ -5,7 +5,7 @@
 % be ran with within a "Comsol with Matlab" instance.
 
 % This code was developed for the research article:
-% Chabanon M. & Rangamani P., "?Geometric coupling of helicoidal ramps and
+% Chabanon M. & Rangamani P., "Geometric coupling of helicoidal ramps and
 % curvature-inducing proteins in organelle membranes", Journal of the Royal
 % Society Interface (2019).
 
@@ -119,4 +119,3 @@ set(gca,'FontSize', 16, 'position', [0.18 0.20 0.75 0.75])
 axis square ; grid minor
 
    
-
