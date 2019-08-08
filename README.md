@@ -8,4 +8,6 @@ A sample data file where C_1=5C_0 (hel00_C1eq5_50iterations.mat) is provided for
 This Matlab code and Comsol model were developed for the peer reviewed article:
 Chabanon M. & Rangamani P., "Geometric coupling of helicoidal ramps and curvature-inducing proteins in organelle membranes", Journal of the Royal Society Interface (2019).
 
+bioRxiv version at www.biorxiv.org/content/10.1101/635466v1.abstract
+
 Code author: Morgan Chabanon
